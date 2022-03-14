@@ -1,2 +1,3 @@
-# sae-region-maker
- 
+# Smash Amiibo Editor Region Maker
+
+
